@@ -2,6 +2,20 @@
 
 A robust and user-friendly web application built with Python and Django for managing and organizing events. This system allows users to browse upcoming events, register for them, and track their registrations, while providing administrators with a powerful dashboard to manage events and participants.
 
+## 📸 Project Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Event-Management-System/main/myproject/myapp/static/images/1.jpg" alt="Screenshot 1" width="30%" />
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Event-Management-System/main/myproject/myapp/static/images/2.jpg" alt="Screenshot 2" width="30%" />
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Event-Management-System/main/myproject/myapp/static/images/3.jpg" alt="Screenshot 3" width="30%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Event-Management-System/main/myproject/myapp/static/images/4.jpg" alt="Screenshot 4" width="30%" />
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Event-Management-System/main/myproject/myapp/static/images/5.jpg" alt="Screenshot 5" width="30%" />
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Event-Management-System/main/myproject/myapp/static/images/6.jpg" alt="Screenshot 6" width="30%" />
+</p>
+
 ## ✨ Core Features
 
 *   **User Authentication:**
