@@ -42,10 +42,9 @@ Follow these steps to set up the project on your local machine for development a
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
-    cd your-repository-name
+    git clone https://github.com/NoorMustafa4556/Event-Management-System.git
+    cd Event-Management-System
     ```
-    (Replace `your-username/your-repository-name` with your actual GitHub URL).
 
 2.  **Create and Activate a Virtual Environment:**
     *   **On Windows:**
