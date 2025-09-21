@@ -58,6 +58,8 @@ Follow these steps to set up the project on your local machine for development a
 1.  **Clone the Repository:**
     ```bash
     git clone https://github.com/NoorMustafa4556/Event-Management-System.git
+    ```
+    ```bash
     cd Event-Management-System
     ```
 
@@ -65,11 +67,15 @@ Follow these steps to set up the project on your local machine for development a
     *   **On Windows:**
         ```bash
         python -m venv env
+        ```
+        ```bash
         .\env\Scripts\activate
         ```
     *   **On macOS/Linux:**
         ```bash
         python3 -m venv env
+        ```
+        ```bash
         source env/bin/activate
         ```
 
