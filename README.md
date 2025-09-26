@@ -11,6 +11,7 @@ A robust and user-friendly web application built with Python and Django for mana
 </p>
 
 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/NoorMustafa4556/Event-Management-System/main/myproject/myapp/static/images/4.jpg" alt="Screenshot 4" width="30%" />
   <img src="https://raw.githubusercontent.com/NoorMustafa4556/Event-Management-System/main/myproject/myapp/static/images/5.jpg" alt="Screenshot 5" width="30%" />
